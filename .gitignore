@@ -1,0 +1,22 @@
+# Built files
+*.iml
+.gradle/
+build/
+local.properties
+captures/
+
+# IDE
+.idea/
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystore
+*.jks
+*.keystore
+
+# Logs
+*.log
